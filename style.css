@@ -332,6 +332,11 @@ article .icon{
     color: black;
     border-color: rgb(163,163,163);
 }
+.project-img-2{
+    border-radius:2rem;
+    width:55%;
+    height:40%;
+}
 /* Contact section */
 #contact{
     display: flex;
